@@ -740,42 +740,42 @@ position: inherit;
 }
  
 .footer {
-    margin-top: 100px;
+    margin-top: 50px;
     background: #eec668;
-    padding-top: 90px;
+    padding-top: 50px;
 }
-.call_now2 h3 {
+
+.icons h3 {
     font-size: 30px;
     line-height: 40px;
-    color: #fff;
+    color: #000;
     padding-bottom: 33px;
      
  }
-.call_now2 span {
-     font-size: 31px;
-     line-height: 30px;
-     font-weight: bold;
-     color: #000;
+.icons span {
+     font-size: 30px;
+     line-height: 40px;
+     color: #fff;
 }
 
 .call_now {
     float: right;
     letter-spacing: 3px;
+    line-height: 40px;
 }
 
 .call_now h3 {
-     font-size: 40px;
-line-height: 40px;
-font-weight: 700;
-color: #000;
-padding-bottom: 33px;
+
+    font-size: 30px;
+    line-height: 40px;
+    color: #000;
+    padding-bottom: 33px;
      
  }
 .call_now span {
-     font-size: 45px;
-     line-height: 35px;
-     font-weight: bold;
-     color: #fff;
+     font-size: 30px;
+     line-height: 40px;
+     color: #000;
 }
  .copyright {
  background:url(../images/cop.jpg);
@@ -815,4 +815,9 @@ padding-bottom: 33px;
 
 .text-img{
     float: right;
+}
+.icons i{
+    padding-right: 15px ;
+    color: black;
+    font-size: 30px;
 }
